@@ -16,6 +16,7 @@
   "scripts": {
     "prepare": "simple-git-hooks",
     "start": "tsx ./src/index.ts",
+    "dev": "tsdown --watch",
     "build": "tsdown",
     "test": "vitest",
     "check": "tsc --noEmit",
