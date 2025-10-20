@@ -14,3 +14,6 @@ Template for npm package by situ2001.
 - [ ] Edit or remove badges in this README.md
 - [ ] Enable GitHub Actions workflows if needed
 - [ ] Fill NPM token in GitHub Secrets for publishing if needed
+- [ ] Set workflow permissions in GitHub Settings to read and write if needed
+- [ ] Allow GitHub Actions to create and approve pull requests if needed
+- [ ] Remove this section
