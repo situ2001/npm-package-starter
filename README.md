@@ -5,7 +5,7 @@
 [![npm download](https://img.shields.io/npm/dt/auto-adb?style=flat&colorA=080f12&colorB=1fa669)](https://www.npmjs.com/package/auto-adb)
 ![npm license](https://img.shields.io/npm/l/auto-adb?style=flat&colorA=080f12&colorB=1fa669)
 
-Boilerplate for npm package by situ2001.
+Template for npm package by situ2001.
 
 ## Do these before using
 
