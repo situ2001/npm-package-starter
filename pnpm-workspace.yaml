@@ -1,0 +1,13 @@
+packages:
+  - example
+  - src
+  - examples/*
+  - packages/*
+  - '!**/test/**'
+  - tools/*
+
+ignoreWorkspaceRootCheck: true
+
+onlyBuiltDependencies:
+  - esbuild
+  - simple-git-hooks
