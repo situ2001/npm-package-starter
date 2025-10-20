@@ -21,7 +21,7 @@
     "test": "vitest",
     "check": "tsc --noEmit",
     "lint": "eslint",
-    "ci-publish": "pnpm build && pnpm test && pnpm test && pnpm publish --access public"
+    "publish-pkg": "pnpm build && pnpm test && pnpm test && pnpm publish --access public"
   },
   "files": [
     "dist",
