@@ -13,7 +13,7 @@ Template for npm package by situ2001.
 - [ ] Edit the package.json file to set the correct entry point and other metadata
 - [ ] Edit or remove badges in this README.md
 - [ ] Enable GitHub Actions workflows if needed
-- [ ] Fill NPM token in GitHub Secrets for publishing if needed
+- [ ] Fill NPM token in GitHub Secrets for publishing if needed (Settings -> Secrets and variables -> Actions -> Repositories secrets -> `NPM_TOKEN`)
 - [ ] Set workflow permissions in GitHub Settings to read and write if needed
 - [ ] Allow GitHub Actions to create and approve pull requests if needed
 - [ ] Remove this section
