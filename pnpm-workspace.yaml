@@ -5,6 +5,7 @@ packages:
   - packages/*
   - '!**/test/**'
   - tools/*
+  - .
 
 ignoreWorkspaceRootCheck: true
 
